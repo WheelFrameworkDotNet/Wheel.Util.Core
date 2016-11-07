@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['utilexception',['UtilException',['../class_wheel_1_1_util_1_1_core_1_1_exceptions_1_1_util_exception.html#ae684b8e7506756d60106421f5d75b7c7',1,'Wheel.Util.Core.Exceptions.UtilException.UtilException()'],['../class_wheel_1_1_util_1_1_core_1_1_exceptions_1_1_util_exception.html#ab59411d1db14343a5dc7f1646056d68d',1,'Wheel.Util.Core.Exceptions.UtilException.UtilException(string mensaje)'],['../class_wheel_1_1_util_1_1_core_1_1_exceptions_1_1_util_exception.html#a95914fbd1d3ee57b6007b1f6ce06ae82',1,'Wheel.Util.Core.Exceptions.UtilException.UtilException(SerializationInfo serializationInfo, StreamingContext streamingContext)'],['../class_wheel_1_1_util_1_1_core_1_1_exceptions_1_1_util_exception.html#ae4e671860c3e7612f8cc3b3fa82e9612',1,'Wheel.Util.Core.Exceptions.UtilException.UtilException(string mensaje, Exception innerException)']]]
+];
